@@ -45,7 +45,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 ### 🖥️ Live Demo
 
-Check out the live version of the project here: [BookTown Live](#)
+Check out the live version of the project here: [BookTown Live](https://bookwebsitepage.netlify.app/)
 
 ## 🖼️ Screenshots
 
